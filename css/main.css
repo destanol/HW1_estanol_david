@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.imgRap{
+    width:  1399px;
+	margin: 0 auto;
+    height: 935px;
+}
+
+#projectTitle { 
+    background: #111111;
+    width: 100%;
+    padding: 24px 0px 25px 300px
+
+
+}
+
+#projectTitle h1 { 
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: white;
+    font-size: 24px;
+
+}
+
+#textBio {
+    background: black;
+    color:white;
+    width: 100%;
+    
+}
+
+#textWrap{
+    width:  1399px;
+    margin: 0 auto;
+    padding-bottom: 30px;1
+}
+
+#textBio h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 30px 0px 20px 10px;
+    font-size: 50px;
+        
+}
+
+#textBio p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 20px;
+
+    padding: 20px 0px 30px 40px;
+}
+
+#textBlock {
+    margin-left: 30px
+
+
+}
